@@ -1,7 +1,7 @@
 ## This file is for R launguage assignment 2. 
 ## It aims to cathe the inverse of a matrix
 
-## Set the Matrix
+## create a special "matrix"
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
